@@ -15,6 +15,7 @@ GEM
     rack (2.2.4)
     rack-protection (3.0.2)
       rack
+    ruby-mysql (3.0.1)
     ruby2_keywords (0.0.5)
     sinatra (3.0.2)
       mustermann (~> 3.0)
@@ -31,6 +32,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  ruby-mysql
   sinatra
   webrick
 
